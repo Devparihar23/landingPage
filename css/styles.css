@@ -1,0 +1,450 @@
+body{
+    text-align: center;
+}
+
+.container{
+    position:absolute;
+    width: 90vw;
+    height: 100vh;
+    margin-bottom: 0px;
+    margin: 4% 10% 2% 2%;
+    background-image: url('images/download1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.enjoy{
+    width: 35%;
+    color: white;
+    margin-top: 14%;
+    font-weight: 100;
+}
+.family{
+    text-align: start;
+    margin-left: 14%;
+    font-weight: 100;
+}
+.years{
+    text-align: start;
+    margin-left: 14%;
+    font-weight: 500;
+}
+.year{
+    text-align: start;
+    margin-left: 14%;
+    font-weight: 500;
+}
+
+.circle{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-left: 5%;
+    margin-top:400px;
+    background-color: #154c79;
+    border:0px solid ;
+    border-radius: 50% ;
+    color: white;
+    opacity: 0.6;
+}
+
+.small-circle{
+    width: 170px;
+    height: 170px;
+    margin-top: 14px;
+    margin-left: 12px;
+    text-align: center;
+    border: 2px dashed white;
+    border-radius: 50%;
+}
+
+.emi{
+    margin-top: 30%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.option{
+    font-weight: 100;
+}
+
+.contain-form  {
+    position:absolute;
+    width: 22%;
+    margin-top: 100px;
+    margin-left: 1000px;
+    background-color:#154c79;
+    opacity: 0.8;
+}
+
+h1{
+    width:25%;
+    position: absolute;
+}
+.member{
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.and-get{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top:0px ;
+    margin-bottom: 0px;
+}
+.free{
+    font-size: 21px;
+}
+.apple{
+    color: rgba(146, 110, 11, 1);
+    font-size: 25px;
+    font-weight: 600;
+}
+.iphone{
+    color:rgba(146, 110, 11, 1);
+    font-size: 25px;
+    margin-top: 0px;
+    text-align: center;
+    font-weight: 600;
+}
+.know{
+    text-align: center;
+    color: white;
+}
+
+.first{
+    height: 30px;
+    width: 50%;
+    border-radius: 3px;
+    display: inline;
+}
+.last{
+    height: 30px;
+    width: 40%;
+}
+
+.form{
+    padding: 5px 20px 7px 20px ;
+}
+.email{
+    height: 30px;
+    width: 95%;
+    border-radius: 3px;
+}
+.number{
+    height: 30px;
+    width: 95%;
+    border-radius: 3px;
+}
+
+.city{
+    height: 37px;
+    width: 45%;
+    border-radius: 3px;
+}
+
+.age{
+    height: 30px;
+    width: 43%;
+    margin-left: 5%;
+    border-radius: 3px;
+}
+
+.checkbox{
+    display: inline;
+}
+
+.check-text{
+    height: 3px;
+    font-size: 10px;
+    color: white;
+}
+
+.button{
+    width: 100%;
+    height: 50%;
+    font-size: 25px;
+    text-align: center;
+    background-color: yellow;
+    
+}
+
+.middle-up-container{
+    position: absolute;
+    width: 90vw;
+    height: 33vh;
+    text-align: start;
+    margin-top: 55%;
+    background-color:#E6E6E6;
+}
+
+.left-bottom-container{
+    position: absolute;
+}
+.right-bottom-container{
+    position: absolute;
+    width: 16%;
+    height: 35%;
+    margin-left: 65%;
+    height: 33vh;
+    background-color: #C8C6C6;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.offer{
+    color:#2C2E43;
+    font-size: 1.7em;
+    margin-left: 75%;
+    width: 100%;
+    padding-bottom: 3px;
+    margin-bottom: 0;
+}
+hr{
+    margin-left: 75%;
+    width: 90%;
+    margin-top: 0;
+}
+
+.sign{
+    font-weight: 600;
+    color: #14279B;
+}
+.get{
+    color:#4A403A;
+    font-size: 1.7em;
+    margin-left: 75%;
+    width: 100%;
+    letter-spacing: 2px;
+    margin-top: 0;
+}
+
+.end{
+    width: 100%;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 3rem;
+    font-weight: 100;
+}
+.soon{
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 100;
+    margin-bottom: 0%;
+}
+button{
+    width: 90%;
+    height: 2rem;
+    background-color: yellow;
+    font-size: 1rem;
+    margin-top: 0%;
+}
+
+.envelope-container{
+    position: relative;
+    color: white;
+
+}
+
+.envelope-first{
+    position: absolute;
+    margin-left: 300px;
+    width: 0;
+    height: 0;
+    border-top: 50px solid  #5C7AEA;
+    border-left: 65px solid #3D56B2;
+    border-right: 65px solid #3D56B2;
+    border-bottom: 50px solid #14279B;
+    border-radius: 10%;
+    text-align: center;
+    
+}
+
+.envelope-second{
+    position: absolute;
+    margin-left: 450px;
+    width: 0;
+    height: 0;
+    border-top: 50px solid #D79771;
+    border-left: 65px solid #B05B3B;
+    border-right: 65px solid #B05B3B;
+    border-bottom: 50px solid #753422;
+    border-radius: 10%;
+}
+
+.envelope-third{
+    position: absolute;
+    margin-left: 600px;
+    width: 0;
+    height: 0;
+    border-top: 50px solid  #5C7AEA;
+    border-left: 65px solid #3D56B2;
+    border-right: 65px solid #3D56B2;
+    border-bottom: 50px solid #14279B;
+    border-radius: 10%;
+}
+
+.envelope-fourth{
+    position: absolute;
+    margin-left: 750px;
+    width: 0;
+    height: 0;
+    border-top: 50px solid #D79771;
+    border-left: 65px solid #B05B3B;
+    border-right: 65px solid #B05B3B;
+    border-bottom: 50px solid #753422;
+    border-radius: 10%;
+}
+
+.envelope-text{
+    position: relative;
+    color: white;
+    text-align: center;
+    margin-top: 66%;
+}
+.envelope-first-text{
+    position: absolute;
+    width: 5.1vw;
+    margin-left: 23.8%;
+}
+
+.envelope-second-text{
+    position: absolute;
+    width: 5.1vw;
+    margin-left: 34.5%;
+}
+
+.envelope-third-text{
+    position: absolute;
+    width: 5.1vw;
+    margin-left: 45%;
+}
+
+.envelope-fourth-text{
+    position: absolute;
+    width: 5.1vw;
+    margin-left: 56%;
+}
+
+.middle-down-container{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 8%;
+    margin-bottom: 0%;
+}
+
+.pay-once{
+    
+    position: absolute;
+    border: 3px solid grey;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    border-radius: 50%;
+    margin-top:15% ;
+    margin-left: 17%;
+}
+
+.future-vacation{
+    position: absolute;
+    border: 3px solid grey;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    border-radius: 50%;
+    margin-top: 15%;
+    margin-left: 29.6%;
+}
+
+
+.design{
+    position: absolute;
+    border: 3px solid grey;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    border-radius: 50%;
+    margin-top: 15%;
+    margin-left: 42.2%;
+}
+
+
+.holiday{
+    position: absolute;
+    border: 3px solid grey;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    border-radius: 50%;
+    margin-top: 15%;
+    margin-left: 54.8%;
+}
+
+.spacious{
+    position: absolute;
+    border: 3px solid grey;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    border-radius: 50%;
+    margin-top: 15%;
+    margin-left: 67.4%;
+}
+
+.flexibility{
+    position: absolute;
+    border: 3px solid grey;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    border-radius: 50%;
+    margin-top: 15%;
+    margin-left: 80%;
+}
+
+.icon-define{
+    position: relative;
+    margin-top: 16%;
+}
+.text-pay-once{
+    position: absolute;
+    width: 7vw;
+    font-size: small;
+    margin-top: 21%;
+    margin-left: 15.8%;
+}
+
+.text-future-vacation{
+    position: absolute;
+    width: 7vw;
+    font-size: small;
+    margin-top: 21%;
+    margin-left: 28.4%;
+}
+
+.text-design{
+    position: absolute;
+    width: 7vw;
+    font-size: small;
+    margin-top: 21%;
+    margin-left: 41.4%;
+}
+
+.text-holiday{
+    position: absolute;
+    width: 7vw;
+    font-size: small;
+    margin-top: 21%;
+    margin-left: 53.8%;
+}
+
+.text-spacious{
+    position: absolute;
+    width: 7vw;
+    font-size: small;
+    margin-top: 21%;
+    margin-left: 66.4%;
+}
+
+.text-flexibility{
+    position: absolute;
+    width: 6vw;
+    font-size: small;
+    margin-top: 21%;
+    margin-left: 79.6%;
+}
+
+#container-back-image{
+    background-image: url('images/download1.jpg');
+}
